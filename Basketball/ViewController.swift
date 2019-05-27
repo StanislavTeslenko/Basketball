@@ -13,7 +13,7 @@ import ARKit
 class ViewController: UIViewController {
     
     var doneCounter = 0
-    var invalidCounter = 0
+//    var invalidCounter = 0
     var hoopPlaced = false
 
     @IBOutlet var sceneView: ARSCNView!
